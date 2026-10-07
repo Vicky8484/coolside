@@ -1,0 +1,82 @@
+[data-tema="normal"]{
+ --background: #e9eeda;
+ --text-color: #363535;
+ --text-shadow: #ffffff76;
+ --metal-card1: linear-gradient(#addc88, #323332);
+ --metal-card2: linear-gradient(#e7a7a7, #3c3538);
+ --metal-card3: linear-gradient(#e98ebd, #3c3538);
+ --metal-header: linear-gradient(#3f5c6f, #3c3538);
+
+ --metal-card1-hover: linear-gradient(#addc88, #486e48);
+ --metal-card2-hover: linear-gradient(#e7a7a7, #704558);
+ --metal-card3-hover: linear-gradient(#e98ebd, #704568);
+  --metal-header-hover: linear-gradient(#3f5c6f, #263a48);
+
+  --ui-normal-surface: linear-gradient(#f5f8eb, #c8c8c8);
+ --ui-normal-surface-border: #e98ebd;
+
+ --popover-card1: linear-gradient(#835e4f, #323332);
+ --popover-card2: linear-gradient(#488c7c, #323332);
+ --popover-card3: linear-gradient(#633c4e, #323332);
+
+ --popover-card1-hover: linear-gradient(#835e4f, #48332b);
+ --popover-card2-hover: linear-gradient(#488c7c, #24453d);
+ --popover-card3-hover: linear-gradient(#633c4e, #442533);
+
+ --popover-background: #ccd2be;
+
+  --popover2-card1: linear-gradient(#0ea9f1, #323332);
+ --popover2-card2: linear-gradient(#ac0fea, #323332);
+ --popover2-card3: linear-gradient(#c7e219, #323332);
+
+ --popover2-card1-hover: linear-gradient(#0ea9f1, #094662);
+ --popover2-card2-hover: linear-gradient(#ac0fea, #46075f);
+ --popover2-card3-hover: linear-gradient(#c7e219, #566209);
+
+  --popover2-background: #acc4cb;
+
+ --border-radius: 15px;
+}
+
+[data-tema="nummer2"]{
+ --background: #d1f3e4;
+ --text-color: #242323;
+ --text-shadow: #ffffff76;
+ --metal-card1: linear-gradient(#88bddc, #323332);
+ --metal-card2: linear-gradient(#e7d6a7, #3c3538);
+ --metal-card3: linear-gradient(#d88ee9, #3c3538);
+
+ --metal-card1-hover: linear-gradient(#88bddc, #3e5f72);
+ --metal-card2-hover: linear-gradient(#e7d6a7, #817554);
+ --metal-card3-hover: linear-gradient(#d88ee9, #6d4476);
+
+ --ui-normal-surface: linear-gradient(#e3f5ed, #c8c8c8);
+ --ui-normal-surface-border: #d88ee9;
+
+  --popover-card1: linear-gradient(#524f83, #323332);
+ --popover-card2: linear-gradient(#788c48, #323332);
+ --popover-card3: linear-gradient(#3c6263, #323332);
+
+ --popover-card1-hover: linear-gradient(#524f83, #2e2d4b);
+ --popover-card2-hover: linear-gradient(#788c48, #3e4925);
+ --popover-card3-hover: linear-gradient(#3c6263, #243a3b);
+
+  --popover-background: #accbbd;
+
+  --popover2-card1: linear-gradient(#f1c80e, #323332);
+ --popover2-card2: linear-gradient(#0fea6e, #323332);
+ --popover2-card3: linear-gradient(#e21934, #323332);
+
+ --popover2-card1-hover: linear-gradient(#f1c80e, #7a660f);
+ --popover2-card2-hover: linear-gradient(#0fea6e, #086a32);
+ --popover2-card3-hover: linear-gradient(#e21934, #620b17);
+
+  --popover2-background: #acc4cb;
+
+  --border-radius: 5px;
+}
+
+:root, 
+html{
+--section-block-spacing: 2rem;
+}
